@@ -44,5 +44,14 @@
       "Branch 'VWX' still exists on the remote! Remember to delete it from the remote."
     ],
     "status": "Incomplete"
+  },
+  {
+    "exercise_name": "glossary-branch-delete",
+    "started_at": 1770535093.735992,
+    "completed_at": 1770535096.406463,
+    "comments": [
+      "Branch 'VWX' still exists locally! Remember to delete it from your local repository."
+    ],
+    "status": "Incomplete"
   }
 ]
